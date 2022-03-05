@@ -44,7 +44,7 @@ This project features a Micro Service Design Pattern to optimize the Unit Testin
      
 ## Commercial Projects
 In GitHub we have published  Commercial Projects with Opensource code
-I am the architect of Open Source projects in my repositories
+I am the architect of Open Source projects in my repositories and worked with other developers and even an ex IBM Senior Architect.
 
 
 <!--
