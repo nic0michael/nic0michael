@@ -8,7 +8,7 @@ One thing I learned and really liked about working at IBM was the importance giv
  
 In South Africa its called "Ubuntu", that's where Ubuntu Linux got its name from.  
 
-The way I give back to the community is to create reference projects using Industry best practices and publish them in GitHub as Open Source projects in [My repositories](https://github.com/nic0michael)   
+The way I give back to the community is to create reference projects using Industry best practices and publish them in GitHub as Open Source projects in [My repositories](https://github.com/nic0michael) with the hope that other developers will benefit from the knowledge put into these projects.   
 
 ## What does Nico do when he is not writing code
 I am a Radio Amateur with Unrestricted license : ZS6BVR I experiment with antennas and with Arduino Micro controllers  
