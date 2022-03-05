@@ -4,8 +4,10 @@
 ## Who is Nico
 Hi there I am Nico Michael
 I was Trained by IBM as a Java developer 22 years ago.  
-One thing I learned and really liked about working IBM is the importance given to "Giving back to the Community", 
+One thing I learned and really liked about working IBM is the importance given to "Giving back to the Community".
+ 
 In South Africa its called "Ubuntu".  
+
 The way I give back to the community is to create reference projects using Industry best practices and publish them in GitHub as Open Source projects in [My repositories](https://github.com/nic0michael)   
 
 ## What does Nico do when he is not writing code
