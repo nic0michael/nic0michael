@@ -42,8 +42,9 @@ There is also a section showing two ways to "Dockerize" ones project to run as a
 ### 3.7 A unique Design Pattern for optimizing Spring Boot Micro services
 This project features a Micro Service Design Pattern to optimize the Unit Testing [For more information click this link](https://github.com/nic0michael/RabbitMQProducerMicroservice/blob/master/DesignPattern.md).   
 
-### 3.8 White Paper 
-Please download this free white paper here : 
+### 3.8 White Paper : Building Cloud Ready Mocroservices using Industry Best Practices
+Please download this free white paper which I have published here : 
+[white-paper-building-cloud-ready-microservices-using-industry-best-practices](https://www.dvt.co.za/white-paper-building-cloud-ready-microservices-using-industry-best-practices)
      
 ## 4. Commercial Projects
 In GitHub we have published  Commercial Projects with Opensource code.   
