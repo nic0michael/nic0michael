@@ -39,12 +39,12 @@ This information is published to show developers how to automate the Postman as 
 ### 3.6 Producing Docker Containers  
 There is also a section showing two ways to "Dockerize" ones project to run as a Docker container and use Portainer to manage ones Docker containers.   
   
-### A unique Design Pattern for optimizing Spring Boot Micro services
+### 3.7 A unique Design Pattern for optimizing Spring Boot Micro services
 This project features a Micro Service Design Pattern to optimize the Unit Testing [For more information click this link](https://github.com/nic0michael/RabbitMQProducerMicroservice/blob/master/DesignPattern.md).   
      
 ## 4. Commercial Projects
 In GitHub we have published  Commercial Projects with Opensource code.   
-I am the architect of Open Source projects in my repositories and worked with other developers and even an ex IBM Senior Architect.   
+I am the architect of most of these Open Source projects in my repositories and worked with other developers and even an ex IBM Senior Architect.   
 
 
 <!--
