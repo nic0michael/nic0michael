@@ -4,7 +4,7 @@
 ## 1. Who is Nico
 Hi there I am Nico Michael.   
 I was Trained by IBM as a Java developer when I worked there 22 years ago.     
-One thing I learned and really liked about working at IBM was the importance given to "Giving back to the Community".   
+One thing I learned and really liked about working at IBM was the importance given to *"Giving back to the Community"*.   
  
 In South Africa its called "Ubuntu", that's where Ubuntu Linux got its name from.  
 
