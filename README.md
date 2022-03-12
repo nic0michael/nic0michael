@@ -13,16 +13,16 @@ The way I give back to the community is to create reference projects using Indus
 ## 2. What does Nico do when he is not writing code
 I am a Radio Amateur with Unrestricted license : ZS6BVR I experiment with antennas and with Arduino Micro controllers.
 
-One day I felt that it would be nice to have a code generator for Arduino and Raspberry Pi Projects that could generate sample code using a libruary repository in a database.  
-This would be deployed in a web server and  alow users to select all the hardware components and generate sample code to get a quick start to coding for the project.  
+One day I felt that it would be nice to have a code generator for Arduino and Raspberry Pi Projects that could generate sample code using a library repository in a database.  
+This would be deployed in a web server and allow users to select all the hardware components and generate sample code to get a quick start to coding for the project.  
 [The Arduino Code Generator](https://github.com/nic0michael/ArduinoCodeGenerator)
   
 
 
 ## 3. The RabbitMQProducerMicroservice project
 
-This is a project that covers many of the Industry Best Practices in Microservice  Development, it shows the developer techniques to test code, create integration tests which can be scripted.   
-The intention here is to benefit both the Junior and Senior Java Developer.    
+his is a project that covers many of the Industry Best Practices in Microservice Development, it shows the developer techniques to test code, create integration tests which can be scripted.  
+The intention here is to benefit both the Junior and Senior Java Developer.
 
 ### 3.1 Building code using TDD
 An example of this is the [RabbitMQProducerMicroservice](https://github.com/nic0michael/RabbitMQProducerMicroservice). This is a Teaching project used to teach  developers How to write Code using TDD(Test Driven Development) This verifies the code works according to your design.    
