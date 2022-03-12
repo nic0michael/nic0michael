@@ -47,7 +47,7 @@ Please download this free white paper which I have published here :
 [white-paper-building-cloud-ready-microservices-using-industry-best-practices](https://www.dvt.co.za/white-paper-building-cloud-ready-microservices-using-industry-best-practices)
      
 ## 4. Commercial Projects
-In GitHub we have published  Commercial Projects with Opensource code.   
+In GitHub we have published our Commercial Projects with Opensource code.   
 I am the architect of most of these Open Source projects in my repositories and worked with other developers and even an ex IBM Senior Architect.   
 
 
