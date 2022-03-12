@@ -11,7 +11,8 @@ In South Africa this is called "Ubuntu", that's where Ubuntu Linux got its name 
 The way I give back to the community is to create reference projects using Industry best practices and publish them in GitHub as Open Source projects in [my repositories](https://github.com/nic0michael) with the hope that other developers will benefit from the knowledge put into these projects.      
 
 ## 2. What does Nico do when he is not writing code
-I am a Radio Amateur with Unrestricted license : ZS6BVR I experiment with antennas and with Arduino Micro controllers.   
+I am a Radio Amateur with Unrestricted license : ZS6BVR I experiment with antennas and with Arduino Micro controllers.
+
 One day I felt that it would be nice to have a code generator for Arduino and Raspberry Pi Projects that could generate sample code using a libruary repository in a database.  
 This would be deployed in a web server and  alow users to select all the hardware components and generate sample code to get a quick start to cding for the project.  
 [The Arduino Code Generator](https://github.com/nic0michael/ArduinoCodeGenerator)
