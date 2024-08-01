@@ -6,7 +6,7 @@ Hi there I am Nico Michael.
 I was Trained by IBM as a Java developer when I worked there 22 years ago.     
 One thing I learned and really liked about working at IBM was the importance IBM gave to IBMers "Giving back to the Community".   
  
-In South Africa this is called "Ubuntu", that's where Ubuntu Linux got its name from.  
+In South Africa this is called **"Ubuntu"**, **that's where Ubuntu Linux got its name from.**  
 
 The way I give back to the community is to create reference projects using Industry best practices and publish them in GitHub as Open Source projects in [my repositories](https://github.com/nic0michael) with the hope that other developers will benefit from the knowledge put into these projects.      
 
